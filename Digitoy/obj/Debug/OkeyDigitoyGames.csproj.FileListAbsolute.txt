@@ -1,0 +1,6 @@
+C:\Users\HUSEYIN\Downloads\OkeyDigitoyGamesCSharp-master\OkeyDigitoyGamesCSharp-master\OkeyDigitoyGames\obj\Debug\OkeyDigitoyGames.csproj.CoreCompileInputs.cache
+C:\Users\HUSEYIN\Downloads\OkeyDigitoyGamesCSharp-master\OkeyDigitoyGamesCSharp-master\OkeyDigitoyGames\bin\Debug\Digitoy.exe.config
+C:\Users\HUSEYIN\Downloads\OkeyDigitoyGamesCSharp-master\OkeyDigitoyGamesCSharp-master\OkeyDigitoyGames\bin\Debug\Digitoy.exe
+C:\Users\HUSEYIN\Downloads\OkeyDigitoyGamesCSharp-master\OkeyDigitoyGamesCSharp-master\OkeyDigitoyGames\bin\Debug\Digitoy.pdb
+C:\Users\HUSEYIN\Downloads\OkeyDigitoyGamesCSharp-master\OkeyDigitoyGamesCSharp-master\OkeyDigitoyGames\obj\Debug\Digitoy.exe
+C:\Users\HUSEYIN\Downloads\OkeyDigitoyGamesCSharp-master\OkeyDigitoyGamesCSharp-master\OkeyDigitoyGames\obj\Debug\Digitoy.pdb
